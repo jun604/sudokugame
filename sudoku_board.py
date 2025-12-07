@@ -41,7 +41,6 @@ def valid_random_board(board, a, mode_func):
     random_board(board, a)
     while not mode_func(board):
         random_board(board, a)
-    #sudoku_solver.solve_sudoku(board, mode_func)
     return board
 
 
@@ -65,4 +64,3 @@ def make_random(mode, level):
 
 
     return board_deled
-#sudoku_solver.solve_sudoku(board, sudoku_solver.is_current_board_valid)
