@@ -208,11 +208,11 @@ Threading
 <img src="스크린샷/SudokuGame_main.png" width="400">
 
 * 난이도 선택(오리지널/크로스)
-<img src="스크린샷/SudokuGame_original.png" width="400">
-<img src="스크린샷/SudokuGame_cross.png" width="400">
+<img src="스크린샷/SudokuGame_original.png" width="350">
+<img src="스크린샷/SudokuGame_cross.png" width="350">
 
 * 로딩창
-<img src="스크린샷/SudokuGame_loading.png" width="400">
+<img src="스크린샷/SudokuGame_loading.png" width="200">
 
 * 생성되는 보드(오리지널/크로스)
 <img src="스크린샷/SudokuGame_original_play.png" width="400">
@@ -220,11 +220,12 @@ Threading
 
 * 숫자 찾기
 <img src="스크린샷/SudokuGame_search.png" width="400">
+
 * 숫자 찾기(모두 완료)
 <img src="스크린샷/SudokuGame_search_done.png" width="400">
 
 * 스도쿠 완성
-<img src="스크린샷/SudokuGame_end.png" width="400">
+<img src="스크린샷/SudokuGame_end.png" width="200">
 
 # 라이선스
 
