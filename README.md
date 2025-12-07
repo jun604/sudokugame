@@ -11,8 +11,11 @@ Python 기반으로 제작된 스도쿠 게임 생성 & 플레이 프로그램�
 2. 주요 기능
 3. 실행 방법
 4. 사용 기술
-5. 참고 자료
-6. TODO 
+5. 파일별, 함수별 기능
+6. 참고 자료
+7. 스크린샷
+8. 라이선스
+9. TODO 
 
 
 # 프로젝트 소개
@@ -89,9 +92,9 @@ cd sudokugame
 
 2. Python 요구사항
 
-Python 3.x
+ Python 3.x
 
-Tkinter 
+ Tkinter 
 
 3. 실행
 python main.py
