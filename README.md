@@ -207,7 +207,7 @@ Threading
 * 메인 화면(모드 선택)
 <img src="스크린샷/SudokuGame_main.png" width="400">
 
-* 난이도 선택(오리지널/크로스)
+* 난이도 선택(오리지널_normal/크로스_hard)
 <img src="스크린샷/SudokuGame_original.png" width="350">
 <img src="스크린샷/SudokuGame_cross.png" width="350">
 
