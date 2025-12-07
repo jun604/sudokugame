@@ -241,8 +241,9 @@ def run_sudoku(board, mode, level, on_close=None):
 
     cal = button_sort()
     cal_ref = cal
-    cal.table(interface, board, 3, mode_func)
+    cal.table(board, 3, mode_func)
 
     interface.mainloop()
+
 
 
